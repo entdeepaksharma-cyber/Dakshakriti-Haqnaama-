@@ -1,0 +1,6 @@
+{
+  "name": "HAQNAAMA | हक़नामा",
+  "description": "Haq Ki Awaaz. Nyay Ka Saath. Free legal-empowerment, rights navigation, and civic-technology platform for citizens in Kota, Rajasthan and throughout India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
